@@ -1,8 +1,9 @@
 {
-  "name": "eth-marketplace",
+  "name": "Marco Hernandez CV Resume",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "CV Resume of Marco Hernandez",
+  "author": "marculax@gmail.com",
+  "Homepage": ".",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
